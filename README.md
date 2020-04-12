@@ -24,3 +24,7 @@ Weight https://drive.google.com/file/d/1R1ChuSU_0x5C5OImzYmxx7BZEQpAeVib/view?us
 
 Accuracy : 99.95%
 Region Average IOU : 86% 
+
+
+
+![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap5.png)
