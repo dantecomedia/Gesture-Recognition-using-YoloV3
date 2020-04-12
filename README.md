@@ -27,4 +27,13 @@ Region Average IOU : 86%
 
 
 
+![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap4.png)
+
+![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap2.png)
+
+![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap3.png)
+
+![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap.png)
+
 ![alt text](https://github.com/dantecomedia/Gesture-Recognition-using-YoloV3/blob/master/cap5.png)
+
