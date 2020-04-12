@@ -20,3 +20,7 @@ https://drive.google.com/drive/u/0/folders/1oI5rVdzMSCgbnbBv8HsM0XUH67K2iR7Z
 
 Gesture_4.zip has 4 classes with annotations
 images.zip has 9 classes with annotations
+Weight https://drive.google.com/file/d/1R1ChuSU_0x5C5OImzYmxx7BZEQpAeVib/view?usp=sharing
+
+Accuracy : 99.95%
+Region Average IOU : 86% 
