@@ -15,4 +15,8 @@ To train, download the pretrained weights from https://pjreddie.com/darknet/yolo
 
 Weights are saved in the backup folder every 100 iterations
 
+Dataset :
+https://drive.google.com/drive/u/0/folders/1oI5rVdzMSCgbnbBv8HsM0XUH67K2iR7Z
 
+Gesture_4.zip has 4 classes with annotations
+images.zip has 9 classes with annotations
