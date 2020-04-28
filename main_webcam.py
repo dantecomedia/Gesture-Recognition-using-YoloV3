@@ -18,7 +18,7 @@ args = vars(ap.parse_args())
 
 
 
-labelsPath = os.path.sep.join([args["yolo"], "coco.names"])
+labelsPath = "coco2.names"
 LABELS = open(labelsPath).read().strip().split("\n")
 # initialize a list of colors to represent each possible class label
 np.random.seed(42)
@@ -27,8 +27,8 @@ COLORS = np.random.randint(0, 255, size=(len(LABELS), 3),
 
 
 # derive the paths to the YOLO weights and model configuration
-weightsPath = os.path.sep.join([args["yolo"], "yolov3.weights"])
-configPath = os.path.sep.join([args["yolo"], "yolov3.cfg"])
+weightsPath = "yolo-voc_last.weights"
+configPath = "yolo-voc.2.0.cfg"
 # load our YOLO object detector trained on COCO dataset (80 classes)
 print("[INFO] loading YOLO from disk...")
 net = cv2.dnn.readNetFromDarknet(configPath, weightsPath)
